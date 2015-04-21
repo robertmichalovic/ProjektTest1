@@ -9,5 +9,6 @@ public class TridaTest {
 		System.out.println("Úprava è.5");
 		System.out.println("Úprava è.6");
 		System.out.println("Úprava è.7");
+		System.out.println("Úprava è.10- vìtev 3");
 		System.out.println("Konec Programu");	}
 }
