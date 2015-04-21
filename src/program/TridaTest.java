@@ -10,5 +10,10 @@ public class TridaTest {
 		//	Testovaci commit
 		//	Test 1
 		System.out.println("Úprava z PC");
+		System.out.println("Úprava z TEST");
+		System.out.println("Úprava z TEST");
+		System.out.println("Úprava z TEST");
+		System.out.println("Úprava z TEST");
+		System.out.println("Úprava z TEST");
 		System.out.println("Konec Programu");	}
 }
