@@ -8,5 +8,6 @@ public class TridaTest {
 		System.out.println("Úprava è.4");
 		System.out.println("Úprava è.8");
 		//	Testovaci commit
+		//	Test 1
 		System.out.println("Konec Programu");	}
 }
